@@ -1,4 +1,19 @@
 {
     "version": 1,
-    "videos": []
+
+    "videos": [
+
+        {
+            "id": "BeautifulOB",
+            "file": "sample.webm",
+            "sha256": "abcdef123..."
+        },
+
+        {
+            "id": "CamodoGaming",
+            "file": "CamodoGaming.webm",
+            "sha256": "123456..."
+        }
+
+    ]
 }
