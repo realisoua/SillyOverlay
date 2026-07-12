@@ -1,5 +1,0 @@
-# Ignore a specific README file in the root directory
-README.md
-
-# Alternative: Ignore any file named README regardless of extension (.txt, .html)
-README*
