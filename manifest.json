@@ -1,19 +1,12 @@
-{
-    "version": 1,
+if not CLIENT then return end
 
-    "videos": [
+SillyOverlay = SillyOverlay or {}
 
-        {
-            "id": "BeautifulOB",
-            "file": "BeautifulOb.webm",
-            "sha256": "abcdef123..."
-        },
+SillyOverlay.BundledManifest = {
+    "BeautifulOB.webm",
+    "CamodoGaming.webm",
+    "SpycakesOutro.webm",
+    "VanossCookingShow.webm",
+    "VenturianTale.webm",
 
-        {
-            "id": "CamodoGaming",
-            "file": "CamodoGaming.webm",
-            "sha256": "123456..."
-        }
-
-    ]
 }
