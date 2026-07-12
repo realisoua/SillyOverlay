@@ -12,4 +12,4 @@ Instead of packing large video files directly into the addon folder (which infla
 
 ## 📜 License
 
-*(Include your license here, e.g., MIT, GPL, or "All Rights Reserved", depending on how you want others to be able to use your addon's media).*
+*Mit.*
